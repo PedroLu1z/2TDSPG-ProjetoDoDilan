@@ -1,0 +1,1 @@
+# Coloque nesta pasta somente documentos que explicam tendencias de requisitos de projetos que nao serao atendidos durante a primeira versao
